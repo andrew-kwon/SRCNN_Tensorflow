@@ -1,12 +1,22 @@
+
+
+
 Deep Learning을 이용한 Image Super Resolution.
 
 ============
+
 국민대학교 컴퓨터공학부 권영훈
 
->###Contributor 국민대학교 컴퓨터공학부 교수. 김준호, 국민대학교 비주얼컴퓨팅 랩. 이진우
+>Contributor: 국민대학교 컴퓨터공학부 교수. 김준호, 국민대학교 비주얼컴퓨팅 랩. 이진우
+
+
+
 
 Image Super Resolution 관련 논문 Chao Dong, Chen Change Loy, Kaiming He, and Xiaoou Tang: Image Super-Resolution Using Deep Convolutional Networks (2015). 와
 Jiwon Kim, Jung Kwon Lee, and Kyoung Mu Lee.: Accurate Image Super-Resolution Using Very Deep Convolutional Networks (2016).를 참고하여 구현.
+
+
+
 
 ##Github 구성 내용
 + Explanations - 구현 관련 설명, 보고서
